@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## Color Changer [Live Link](https://name-conversion-js.netlify.app/)
+## Password Generator [Live Link](https://password-generatorr-js.netlify.app/)
 
 - Skills Gained in this project
 
